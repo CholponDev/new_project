@@ -1,11 +1,5 @@
 import React, {  useEffect, useState } from 'react'
 
-import img1 from '../assets/bulbasaur.png'
-import img2 from '../assets/buterflay.png'
-import img3 from '../assets/ivysaur.jpeg'
-import img4 from '../assets/metapod.png'
-import img5 from '../assets/weedle.png'
-import img6 from '../assets/venusaur.png'
 import styles from '../styles/Pokemons.module.css'
 
 
