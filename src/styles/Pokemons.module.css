@@ -8,18 +8,6 @@
   gap: 20px;
 }
 
-.pokemons{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  align-items: center;
-  background-color: rgba(200, 200, 203, 0.404);
-  padding-block: 10px;
-
-}
-
 .pokemon {
     display: flex;
     flex-direction:row;
